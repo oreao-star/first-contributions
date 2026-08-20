@@ -5,6 +5,7 @@
 - [musicalpike](https://github.com/musicalpike)
 - [Dmitry Mizurev](https://github.com/mizurev)
 - [Tiago Mallmann](https://github.com/tmallmann)
+- [Wu.](https://github.com/oreao-star)
 - [VIGNESH_CJ](https://github.com/VIGNESH-CJ/first-contributions.git)
 - [Ramcharan_40](https://github.com/Ramcharan-40/first-contributions.git)
 - [Rinku Diwakar](https://github.com/rinkudiwakar)
@@ -166,6 +167,7 @@ Varshith IMT2024044
 - BT2024088
 - [Thrissha Arcot](https://github.com/3sha-arcot)
 - advi7
+- [Jeya prathap](https://github.com/Jeyaprathap2002/)
 - Shive S Bhat BT2024067
 - [Naman_Jindal_BT2024203](https://github.com/LEGEND-Droit-7)
 - Yashaswini
